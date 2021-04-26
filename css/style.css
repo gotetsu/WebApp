@@ -38,8 +38,7 @@ header {
   justify-content: space-around;
   margin: 0 auto;
   padding: 0;
-  /* position: fixed; */
-  /* z-index: 2; */
+
 }
 
 .main-nav {
@@ -47,8 +46,7 @@ header {
   justify-content: space-around;
   background-color: #443f7a;
   width: 100%;
-  /* position: relative;
-  top: 79px; */
+
 }
 
 header h1 {
@@ -66,7 +64,7 @@ header a {
 }
 
 .main-header {
-  /* padding-top: 79px; */
+ 
   display: flex;
 }
 
